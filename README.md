@@ -7,4 +7,7 @@ Grazie a Parcheggiatore Abusivo potrai inserire e guardare in ogni momento chi t
 ### I dati, sempre a portata di mano
 Grazie alla tecnologia dei database, potrai sapere chi ti ha pagato, anche in precedenza, i dati saranno sempre salvati.
 
+### Veloce e Intuitivo
+Tutto merito a Visual Basic .NET e Microsoft Access, non servirà una connessione per accedere al database.
+
 ## BETA TEST - Potrebbero esserci dei bug.
