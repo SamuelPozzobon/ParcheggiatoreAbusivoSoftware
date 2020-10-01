@@ -1,5 +1,5 @@
 # Parcheggiatore Abusivo Software
-Sei un parcheggiatore abusivo? Questo software permetterà al meglio di gestire la vostra attività.
+Sei un parcheggiatore abusivo? Questo software permetterà di gestire al meglio la vostra attività.
 
 ### Basta ricordarti di chi è la macchin
 Grazie a Parcheggiatore Abusivo potrai inserire e guardare in ogni momento chi ti ha pagato il parcheggio
